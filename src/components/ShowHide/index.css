@@ -1,0 +1,24 @@
+.show_container {
+  background-color: #fa7257;
+  height: 1000px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.show_and_hide {
+  display: flex;
+}
+
+.ShowFirstName {
+  border-radius: 10px;
+  color: #fc63a7;
+  margin: 10px;
+}
+.ShowLastName {
+  border-radius: 10px;
+  color: #fc63a7;
+  margin: 10px;
+}
+.firstName {
+  color: black;
+}
